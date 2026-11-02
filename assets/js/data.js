@@ -4,7 +4,7 @@
    Se vende por CAJA, no por botella suelta.
    Edita aquí tus vinos: nombre, tipo, descripción, precio...
    type debe ser: "tinto", "blanco" o "rosado"
-   price = precio de la CAJA completa, en euros, SIN IVA
+   price = precio de la CAJA completa, en euros
    units = nº de botellas que trae la caja (6 o 12)
    ===================================================== */
 
